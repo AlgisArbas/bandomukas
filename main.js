@@ -1,1 +1,1 @@
-const bay =
+const inpArr = fetch('http://localhost:3000')
